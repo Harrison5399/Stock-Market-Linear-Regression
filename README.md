@@ -3,6 +3,8 @@
   In collaboration with Chinmay and Noah
 </p>
 
+<hr>
+
 <p>
   Our goal was to make a linear regression model that would out perform the S&P500 ETF
 <\p>
