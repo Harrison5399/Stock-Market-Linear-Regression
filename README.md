@@ -5,10 +5,18 @@
 
 <p>
   Our goal was to make a linear regression model that would out perform the S&P500 ETF
+<\p>
+<p>
   Uses a linear regression model from sklearn to determine if next day would be positive/negative
+<\p>
+<p>
   Lag day hyper parameter optimization to determine models memory of previous day's prices
+<\p>
+<p>
   Using model created an stock indicator on a graph for buy/sell
 </p>
+
+<\hr>
 
 <p>
   To run, download python/requirements.txt and run pip install -r requirements.txt
