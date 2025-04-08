@@ -16,7 +16,7 @@
   Using model created an stock indicator on a graph for buy/sell
 </p>
 
-<\hr>
+<hr>
 
 <p>
   To run, download python/requirements.txt and run pip install -r requirements.txt
